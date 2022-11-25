@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Camisetas",
+      "category": "Camisas",
+      "freshness": "Nuevos",
+      "price": 45000,
+      "comment": "Cuello Tortuga",
+      "date": "2022-11-01T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "bermuda",
+      "category": "Pantalones",
+      "freshness": "Nuevos",
+      "price": 60000,
+      "comment": "en jean",
+      "date": "2022-11-02T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "camisa",
+      "category": "Camisas",
+      "freshness": "Nuevos",
+      "price": 65000,
+      "comment": "Polo",
+      "date": "2022-11-10T05:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "zapatillas",
+      "category": "Zapatos",
+      "freshness": "Nuevos",
+      "price": 120000,
+      "comment": "Adidas",
+      "date": "2022-11-12T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Tenis",
+      "category": "Zapatos",
+      "freshness": "Nuevos",
+      "price": 160000,
+      "comment": "Nike",
+      "date": "2022-11-03T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Busos",
+      "category": "Camisas",
+      "freshness": "Nuevos",
+      "price": 35000,
+      "comment": "Cuello en V",
+      "date": "2022-11-10T05:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Guayos",
+      "category": "Zapatos",
+      "freshness": "Nuevos",
+      "price": 180000,
+      "comment": "Puma",
+      "date": "2022-11-03T05:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
